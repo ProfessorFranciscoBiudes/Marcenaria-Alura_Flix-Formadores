@@ -14,3 +14,7 @@ body{
     .chamada-texto{
         margin-right: 100px;
     }
+
+    img{
+        height: 200px;
+    }
